@@ -1,5 +1,3 @@
-![EAG Security Logo](https://microsofteur-my.sharepoint.com/:i:/g/personal/difrancis_microsoft_com/EWlSlzBasWlAoBreJmri0zQBoRrPld78ISuzYx_oWc7PcQ?e=OzFxM8)
-
 # EAG Security Blog Posts Repository
 
 Welcome to the EAG Security Blog Posts Repository!
