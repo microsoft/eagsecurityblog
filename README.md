@@ -31,3 +31,5 @@ The blog post explains the benefits of exporting logs from Log Analytics to Azur
 The blog post highlights the integration of Cribl Stream with Microsoft Sentinel to modernize security operations. Cribl Stream offers fast deployment, a user-friendly GUI, and robust data processing capabilities, enabling efficient log ingestion and data transformation. This integration simplifies SIEM migrations and enhances security coverage, providing a flexible solution for managing security data and improving operational efficiency.
 
 #### Author: Mahmoud Elsayed
+
+# [FY24](FY24.md)
