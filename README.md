@@ -8,6 +8,12 @@ Happy reading!
 
 # FY25
 
+- [Seamless Security: Smartcard Logon from Entra-Only Machines to domain-joined Servers or AVDs](https://techcommunity.microsoft.com/blog/coreinfrastructureandsecurityblog/seamless-security-smartcard-logon-from-entra-only-machines-to-domain-joined-serv/4381789)
+
+In today's digital landscape, ensuring seamless security is paramount for organizations. This blog post explores the innovative approach of smartcard logon from Entra-only machines to domain-joined servers. This method enhances security by leveraging smartcard technology, providing a robust authentication mechanism that integrates smoothly with existing infrastructure. The post delves into the technical aspects, benefits, and implementation steps, offering valuable insights for IT professionals looking to bolster their organization's security posture. Dive into the article to discover how this solution can streamline your authentication processes and fortify your network against potential threats.
+
+#### Author: Dagmar Heidecker
+
 - [Integrating API data into Microsoft Security Copilot using custom logs and KQL plugins](https://techcommunity.microsoft.com/blog/microsoft-security-blog/integrating-api-data-into-microsoft-security-copilot-using-custom-logs-and-kql-p/4382024?previewMessage=true)
 
 The blog post explains how to enhance security operations by integrating API data into Microsoft Security Copilot. It covers the use of custom logs and KQL plugins to streamline data ingestion and analysis, providing a more comprehensive security overview. This integration allows for better threat detection and response, leveraging the power of Microsoft Security Copilot to manage and analyze security data efficiently.
