@@ -8,6 +8,12 @@ Happy reading!
 
 # FY25
 
+- [Step-by-Step Guide : How to enable QR code authentication for Microsoft Entra ID (Preview) ?](https://techcommunity.microsoft.com/blog/itopstalkblog/step-by-step-guide--how-to-enable-qr-code-authentication-for-microsoft-entra-id-/4393286)
+
+In today's digital landscape, ensuring secure and seamless authentication is paramount. Microsoft Entra ID offers a robust solution with QR code authentication, enhancing security while simplifying user access. This step-by-step guide on the Microsoft Tech Community blog provides detailed instructions on enabling QR code authentication for Microsoft Entra ID. Whether you're an IT professional or a security enthusiast, this guide will walk you through the process, ensuring you can implement this feature with ease. Dive in to learn how to leverage QR code authentication to bolster your organization's security and streamline user authentication processes.
+
+#### Author: Dishan Francis
+
 - [Microsoft Purview – Data Security Posture Management (DSPM) for AI](https://techcommunity.microsoft.com/blog/azurepurviewblog/microsoft-purview-%E2%80%93-data-security-posture-management-dspm-for-ai/4394685)
 
 In today's rapidly evolving digital landscape, safeguarding AI integrations is crucial for maintaining security and compliance. Microsoft Purview's Data Security Posture Management (DSPM) for AI offers a comprehensive solution to monitor AI activity, enforce security policies, and prevent unauthorized data exposure. By addressing key areas such as recommendations, reports, and data assessments, DSPM for AI helps organizations identify vulnerabilities and take prompt action to enhance their data security posture. 
