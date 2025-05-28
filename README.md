@@ -8,6 +8,12 @@ Happy reading!
 
 # FY25
 
+- [Step by Step: 2-Tier PKI Lab](https://techcommunity.microsoft.com/blog/microsoft-security-blog/step-by-step-2-tier-pki-lab/4413982)
+
+Setting up a secure PKI is essential for protecting identity, data, and communication in any enterprise. Microsoft’s latest blog offers a clear, step-by-step guide to building a 2-tier PKI lab using Windows Server—ideal for testing, learning, or preparing for production deployment. The guide covers installing a root CA, configuring a subordinate CA, setting up CRLs, and more, all aligned with security best practices. Whether you're an IT pro or security enthusiast, this lab provides a practical foundation for mastering PKI.
+
+#### Author: Rahul Jangda
+
 - [Step-by-Step Guide : How to enable QR code authentication for Microsoft Entra ID (Preview) ?](https://techcommunity.microsoft.com/blog/itopstalkblog/step-by-step-guide--how-to-enable-qr-code-authentication-for-microsoft-entra-id-/4393286)
 
 In today's digital landscape, ensuring secure and seamless authentication is paramount. Microsoft Entra ID offers a robust solution with QR code authentication, enhancing security while simplifying user access. This step-by-step guide on the Microsoft Tech Community blog provides detailed instructions on enabling QR code authentication for Microsoft Entra ID. Whether you're an IT professional or a security enthusiast, this guide will walk you through the process, ensuring you can implement this feature with ease. Dive in to learn how to leverage QR code authentication to bolster your organization's security and streamline user authentication processes.
