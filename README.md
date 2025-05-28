@@ -8,7 +8,7 @@ Happy reading!
 
 # FY25
 
-- [Step by Step: 2-Tier PKI Lab](https://techcommunity.microsoft.com/blog/microsoft-security-blog/step-by-step-2-tier-pki-lab/4413982)1
+- [Step by Step: 2-Tier PKI Lab](https://techcommunity.microsoft.com/blog/microsoft-security-blog/step-by-step-2-tier-pki-lab/4413982)2
 
 Setting up a secure PKI is essential for protecting identity, data, and communication in any enterprise. Microsoft’s latest blog offers a clear, step-by-step guide to building a 2-tier PKI lab using Windows Server—ideal for testing, learning, or preparing for production deployment. The guide covers installing a root CA, configuring a subordinate CA, setting up CRLs, and more, all aligned with security best practices. Whether you're an IT pro or security enthusiast, this lab provides a practical foundation for mastering PKI.
 
