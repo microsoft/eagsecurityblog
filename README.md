@@ -16,7 +16,7 @@ Managing user access securely and efficiently is a key priority in modern IT env
 
 - [Octo Tempest Threat Actor - Whitepaper](https://github.com/microsoft/eagsecurityblog/blob/main/Octo%20Tempest%20WP%20v1.docx)
 
-Managing user access securely and efficiently is a key priority in modern IT environments. Conditional Access reauthentication policies in Microsoft Entra ID offer powerful controls to ensure users reauthenticate under specific conditions, enhancing both security and user experience. This blog post provides a practical, step-by-step guide for setting up these policies, walking through configuration in the Microsoft Entra admin center. It’s designed for IT admins looking to reduce risk, enforce session controls, and fine-tune access based on real-world scenarios. Whether you're new to Conditional Access or refining your policies, this guide helps streamline implementation with clarity and precision.
+The article discusses Octo Tempest, a highly sophisticated, financially motivated threat actor group targeting various industries, including retail, with aggressive extortion tactics. The group blends social engineering with technical skill, crossing boundaries between identity attacks, data theft, and ransomware. They are known for their advanced social engineering techniques, SIM swapping, MFA bypass, and rapid privilege escalation. Octo Tempest's operations involve leveraging legitimate IT tools for malicious ends, data theft, and ransomware deployment. The article provides an overview of their operations, threat surfaces, mitigation techniques, and guidance on adapting people and processes to strengthen resilience and prevent future attacks.
 
 #### Author: Rachel Cook & Pramod Nair
 
