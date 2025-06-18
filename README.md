@@ -14,6 +14,12 @@ Managing user access securely and efficiently is a key priority in modern IT env
 
 #### Author: Dishan Francis
 
+- [Octo Tempest Threat Actor - Whitepaper](https://github.com/microsoft/eagsecurityblog/blob/main/Octo%20Tempest%20WP%20v1.docx)
+
+Managing user access securely and efficiently is a key priority in modern IT environments. Conditional Access reauthentication policies in Microsoft Entra ID offer powerful controls to ensure users reauthenticate under specific conditions, enhancing both security and user experience. This blog post provides a practical, step-by-step guide for setting up these policies, walking through configuration in the Microsoft Entra admin center. It’s designed for IT admins looking to reduce risk, enforce session controls, and fine-tune access based on real-world scenarios. Whether you're new to Conditional Access or refining your policies, this guide helps streamline implementation with clarity and precision.
+
+#### Author: Rachel Cook & Pramod Nair
+
 - [Protect Tier 1. Sleep well at Night](https://techcommunity.microsoft.com/blog/CoreInfrastructureandSecurityBlog/protect-tier-1-sleep-well-at-night-/4418653?previewMessage=true)
 
 Securing Tier 1 assets—like domain controllers and critical infrastructure—is essential to protecting your entire enterprise. Dagmar's latest blog, Protect Tier 1 & Sleep Well at Night, offers practical guidance on how to apply the principles of Zero Trust and tiered administration to safeguard your most sensitive systems. It outlines proven strategies such as privilege separation, jump hosts, and role-based access control, all aimed at reducing risk and improving operational security. Whether you're starting your security journey or refining your architecture, this is a must-read for IT and security professionals.
