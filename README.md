@@ -56,6 +56,12 @@ The blog post explains how to leverage TAP for passwordless authentication in Mi
 
 #### Author: Dishan Francis
 
+- [Implementing a tiered administration model in Active Directory](https://blog.quest.com/implementing-a-tiered-administration-model-in-active-directory/?utm_campaign=Oktopost-MPM+BLOGS+&utm_content=Oktopost-linkedin&utm_medium=social&utm_source=linkedin)
+
+Securing Active Directory (AD) is critical for protecting an organization’s core IT infrastructure. One effective strategy is implementing a tiered administration model, which helps reduce the risk of privilege escalation and lateral movement by clearly separating administrative roles and access levels. This blog post explores how a structured tiering approach enhances security, improves manageability, and supports a least-privilege access model. Whether you're modernizing your AD environment or looking to strengthen your existing security posture, this guide offers practical insights and step-by-step considerations for designing and deploying a tiered administrative framework tailored to your organizational needs.
+
+#### Author: Dagmar Heidecker
+
 - [How to use Log Analytics log data exported to Storage Accounts](https://techcommunity.microsoft.com/blog/microsoft-security-blog/how-to-use-log-analytics-log-data-exported-to-storage-accounts/4264045)
 
 The blog post explains the benefits of exporting logs from Log Analytics to Azure Storage Accounts, including low-cost long-term retention, immutability for legal hold, and geographical redundancy. It also covers methods for retrieving and analyzing the archived data, such as using an Azure Data Explorer cluster. The post provides step-by-step guidance on setting up the export process and highlights the importance of these logs in incident investigations and legal cases.
